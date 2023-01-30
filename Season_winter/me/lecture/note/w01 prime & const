@@ -1,0 +1,33 @@
+ 12/19(월) 객체1 리뷰
+
+
+- C++ : 절차지향 가능(c언어처럼 가능), 다른 언어보다 자유도 높음
+- C++ 11부터 모던 c++이라 함 : 게임 개발, 파이썬 라이브러리, 롤 임베디드 등에 사용
+
+- Attributes(멤버변수, 필드, 명사형) ex)학생이라면 학점, 학과 등
+- Behaviors(행위, 메서드, 멤버함수, 동사형) ex)먹는다, 잔다 등
+- Data Member ex)Circle의 radius
+- Member Function(멤버함수, 객체의 행위를 시물레이션 가능) ex)먹는다 잔다
+
+- const(constant) : 멤버변수 메서드 "뒤"에 붙임 -> 멤버변수 값의 변경 불가, 보통 게터에 많이 붙임(값 변경을 안하기 때문) ex) getArea() const;
+                  : 상수 만들기, 대문자 사용 ex) const double PI = 3.14;
+                  : side effect 방지(변수 or 메모리 값 바뀌는 것)
+- mutable : const 예외처리 가능, immetable의 반대, friend 키워드
+
+- class scope :: 좌에서 우로 동작
+- 인라인 함수 : 코드를 짧고 간결하게 쓸 때, 중괄호 안에 기재
+             ex1) double getRadius() const {return radius}
+             ex2) inline double Circle :: getRadius() const
+           {
+               return radius;
+           }                  
+- constructor : 생성자, 객체를 만들고 초기화 시킴, 리턴타입 적용불가, 클래스명과 동일 ? 복사생성자
+- destructor : 소멸자, 객체를 없앰
+
+
+- 객체지향에서 왠만하면 캡슐화해야함 private(자식도 접근 불가), protected(상속관계에서는 가능)
+- 접근타입 지정 안하면 기본값은 private
+
+- 컴파일러, 컴퓨터 구조, 프로그래밍 이론 -> 가치있는 개발자
+
+

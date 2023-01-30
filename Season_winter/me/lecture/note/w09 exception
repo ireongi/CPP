@@ -1,0 +1,24 @@
+1/2(월) 예외처리
+
+평균 33.5
+
+- traditional 예외처리 (for, if, assert -> 갑자기 중단시키기 -> 0인 경우 다음 차례로 or 0이 아닌경우 진행)
+                     좋은 예외처리 : 루프 안에서 오류가 발생해도 다음 루프로 진행되도록 설계, 별도 함수로 빼서 확인시키는게 제일 좋음
+                     solid? 디자인 패턴?(20몇가지)
+- function 예외처리
+
+- try-catch 예외처리 : try문에서 throw하면 해당 타입의 매개변수를 가진 catch 구문으로 넘어감
+                     try문에서 다른 함수를 호출할수도 있음
+                     매개변수로 ...을 주면 모든 타입을 받을 수 있음(가장 마지막에 쓰는 것이 좋음)
+- 스택해제(되감기)
+        1) 코드 메모리
+        2) 정적 메모리
+        3) 스택 메모리(후입선출, return시 pop됨)
+        4) 힙 메모리(무조건 포인터로 사용, 꼭 delete를 해줘야함)
+
+https://en.cppreference.com/w/cpp/language/ub   <- infinite loop without side-effects, 컴파일러마다 출력이 다를수있음
+- 예외 처리
+
+1) traditional : if~ return
+2) getter setter에서 throw를 쓰고 메인에 try~catch 구문
+3) re throw : 생성자 안에서 try~catch, try, catch 둘다 throw 포함시켜 메인에서 받게함

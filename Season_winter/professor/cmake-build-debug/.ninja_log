@@ -1,0 +1,15 @@
+# ninja log v5
+10	72	1672125489318288006	CMakeFiles/professor.dir/02_week/app.cpp.o	eabfeaf9f53e6f25
+10	84	1672054866699181036	CMakeFiles/professor.dir/05_week/week05_01.cpp.o	4db20afdd4500b60
+1563	1677	1672856363172768095	professor	ff31ee4ad074e2cd
+11	85	1672126644834573860	CMakeFiles/professor.dir/02_week/nullpointer.cpp.o	c0749ecf1dd95f52
+11	70	1672125489316400483	CMakeFiles/professor.dir/02_week/circle.cpp.o	691b77d08e0b1ff3
+0	121	1673401778250188018	build.ninja	9b48f91b70564ca5
+12	80	1672124665012995404	CMakeFiles/professor.dir/01_week/const.cpp.o	35b476039de584a6
+11	76	1672119252249803846	CMakeFiles/professor.dir/05_week/week05_03.cpp.o	3d653e1f9b12c44
+10	742	1672125989103557251	CMakeFiles/professor.dir/02_week/file_read.cpp.o	a4b4309bba79d5f0
+0	1559	1672856363048571783	CMakeFiles/professor.dir/02_week/pointer_const.cpp.o	e737928e494da8b3
+12	809	1672126645556941404	CMakeFiles/professor.dir/03_week/matrix.cpp.o	37e7370c670d2ba5
+27	154	1672124842259226277	CMakeFiles/professor.dir/01_week/prime.cpp.o	dd84c9a7ad39486b
+10	74	1672111471469497780	CMakeFiles/professor.dir/05_week/week05_02.cpp.o	478b37de9b8e627e
+12	819	1672126645568635797	CMakeFiles/professor.dir/03_week/app.cpp.o	b1ee6605b591c01e

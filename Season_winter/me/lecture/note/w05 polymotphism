@@ -1,0 +1,19 @@
+12/26(월) 다형성
+
+- virtual 키워드 맨 앞 & 값 0 주기 => 순수 가상 함수 만들기 ex) virtual void print() = 0;
+- 추상클래스 : 하나 이상의 순수 가상 함수
+- 인터페이스 : 전부 순수 가상 함수
+
+- '동적할당을 하여라' -> new Cricle();
+
+
+  포인터로 해당 힙에 생긴 메모리 주소 번지를 가져옴
+
+- Upcast
+  베이스 클래스 포인터에 파생 클래스 객체 넣음
+  ex) Person* ptr1 = new Student
+
+- Downcast(dynamic_cast 씀)
+  파생 클래스 포인터에 베이스 클래스 객체 넣음
+  but 상속관계에서 오버헤드 많이 발생 so 이런 코드 별로 안 좋음
+  ex) Student* ptr2 = dynamic_cast<Student*>(ptr1)
