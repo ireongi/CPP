@@ -3,4 +3,4 @@ project(me)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(me lecture/code/13_stream/vector.cpp lecture/code/13_stream/class_template_inheritance.cpp)
+add_executable(me  lecture/code/03_pointer&memory/metrix.cpp lecture/code/03_pointer&memory/app.cpp)

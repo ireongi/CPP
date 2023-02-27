@@ -1,4 +1,4 @@
-# Install script for directory: /Users/hui-ryung/Desktop/Study/1/Season_winter/me
+# Install script for directory: /Users/hui-ryung/Desktop/CPP/University/1_winter_object_orientation2/me
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/hui-ryung/Desktop/Study/1/Season_winter/me/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/hui-ryung/Desktop/CPP/University/1_winter_object_orientation2/me/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -17,10 +17,10 @@ using namespace std; /// std:: 생략가능
 //    const unsigned int gujunAge = 24; ///상수
 //    unsigned int x; ///변수
 //
-//    cout << "구준 나이의 몇 배?: ";
+//    cout << "나이의 몇 배?: ";
 //    cin >> x;
 //    unsigned int totalAge = gujunAge * x;
-//    cout << "구준 나이의 " << x << "배는 " << totalAge << "입니다.";
+//    cout << "나이의 " << x << "배는 " << totalAge << "입니다.";
 //
 //    return 0;
 //}

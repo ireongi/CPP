@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="150182bb-ab2b-422e-8708-54b7173e5e5a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-8d358f3d06aed9175241.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/.cmake/api/v1/reply/cache-v2-b623e13589aafc2db2c1.json" beforeDir="false" afterPath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/.cmake/api/v1/reply/cache-v2-5301fd83234cf65551d6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-8c646b899647a3e19ae3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-afaa3d9dbda88514d5fb.json" beforeDir="false" afterPath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-f3b5f3a7ef698996344b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/.cmake/api/v1/reply/index-2023-01-21T12-35-21-0222.json" beforeDir="false" afterPath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/.cmake/api/v1/reply/index-2023-01-31T10-17-27-0699.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/Chap/02/cout.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/Chap/02/ect.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/Chap/02/print.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/Chap/07/constructor.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/Chap/10/substr.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/lecture/code/03/heap.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/lecture/code/03_pointer_&amp;_memory/list.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/lecture/code/03_pointer_&amp;_memory/list.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/lecture/code/06/week06_01.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/lecture/code/06/week06_02.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/lecture/code/06/week06_03.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/lecture/code/06/week06_03_01.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/lecture/code/06/week06_04.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/lecture/code/07_lambda/basic_int.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/lecture/code/07_lambda/lambda.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/lecture/code/07_lambda/type.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/lecture/code/09/dynamic_array/dynamicarray.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/lecture/code/09/dynamic_array/exception.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/lecture/code/09/exception.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/lecture/code/09/exception_handling/dynamicarray(2).cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/lecture/code/09/exception_handling/dynamicarray(2).cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/lecture/code/09/exception_handling/exception(2).cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/lecture/code/09/exception_handling/exception(2).cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/lecture/code/09/exception_traditional.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/lecture/code/09/heap.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/lecture/code/10_generic/generic_overloading.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/lecture/code/10_generic/note.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/lecture/code/10_generic/stack.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/lecture/code/10_generic/string.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/lecture/code/11_recursion/GCD.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/lecture/code/11_recursion/factorial.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/lecture/code/11_recursion/fibo.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/lecture/code/11_recursion/string_reverse.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/lecture/code/12_smartPointer/smart_pointer.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/lecture/code/13_stream/stream.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/lecture/code/13_stream/vector.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/lecture/code/13_stream/ㅇ.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/me.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/lecture/note/w13 stream" beforeDir="false" afterPath="$PROJECT_DIR$/University/1_winter_object_orientation2/me/lecture/note/w13 stream" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2LBMXODNfnfQ8KGNsL6KqXrdNJi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "/Users/hui-ryung/Desktop/CPP",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="150182bb-ab2b-422e-8708-54b7173e5e5a" name="Changes" comment="" />
+      <created>1675340060772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675340060772</updated>
+      <workItem from="1675340062335" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
