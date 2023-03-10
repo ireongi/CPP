@@ -58,6 +58,42 @@ build CMakeFiles/Me.dir/01/isPrime.cpp.o: CXX_COMPILER__Me_Debug /Users/hui-ryun
   OBJECT_DIR = CMakeFiles/Me.dir
   OBJECT_FILE_DIR = CMakeFiles/Me.dir/01
 
+build CMakeFiles/Me.dir/02/1_dataType.cpp.o: CXX_COMPILER__Me_Debug /Users/hui-ryung/Desktop/CPP/University/2/Me/02/1_dataType.cpp || cmake_object_order_depends_target_Me
+  DEP_FILE = CMakeFiles/Me.dir/02/1_dataType.cpp.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0 -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/Me.dir
+  OBJECT_FILE_DIR = CMakeFiles/Me.dir/02
+
+build CMakeFiles/Me.dir/02/2_arr.cpp.o: CXX_COMPILER__Me_Debug /Users/hui-ryung/Desktop/CPP/University/2/Me/02/2_arr.cpp || cmake_object_order_depends_target_Me
+  DEP_FILE = CMakeFiles/Me.dir/02/2_arr.cpp.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0 -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/Me.dir
+  OBJECT_FILE_DIR = CMakeFiles/Me.dir/02
+
+build CMakeFiles/Me.dir/02/3_arrPointer.cpp.o: CXX_COMPILER__Me_Debug /Users/hui-ryung/Desktop/CPP/University/2/Me/02/3_arrPointer.cpp || cmake_object_order_depends_target_Me
+  DEP_FILE = CMakeFiles/Me.dir/02/3_arrPointer.cpp.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0 -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/Me.dir
+  OBJECT_FILE_DIR = CMakeFiles/Me.dir/02
+
+build CMakeFiles/Me.dir/02/4_autoArray.cpp.o: CXX_COMPILER__Me_Debug /Users/hui-ryung/Desktop/CPP/University/2/Me/02/4_autoArray.cpp || cmake_object_order_depends_target_Me
+  DEP_FILE = CMakeFiles/Me.dir/02/4_autoArray.cpp.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0 -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/Me.dir
+  OBJECT_FILE_DIR = CMakeFiles/Me.dir/02
+
+build CMakeFiles/Me.dir/02/5_autoTypeId.cpp.o: CXX_COMPILER__Me_Debug /Users/hui-ryung/Desktop/CPP/University/2/Me/02/5_autoTypeId.cpp || cmake_object_order_depends_target_Me
+  DEP_FILE = CMakeFiles/Me.dir/02/5_autoTypeId.cpp.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0 -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/Me.dir
+  OBJECT_FILE_DIR = CMakeFiles/Me.dir/02
+
+build CMakeFiles/Me.dir/02/6_voidPointer.cpp.o: CXX_COMPILER__Me_Debug /Users/hui-ryung/Desktop/CPP/University/2/Me/02/6_voidPointer.cpp || cmake_object_order_depends_target_Me
+  DEP_FILE = CMakeFiles/Me.dir/02/6_voidPointer.cpp.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0 -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/Me.dir
+  OBJECT_FILE_DIR = CMakeFiles/Me.dir/02
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Me
@@ -66,7 +102,7 @@ build CMakeFiles/Me.dir/01/isPrime.cpp.o: CXX_COMPILER__Me_Debug /Users/hui-ryun
 #############################################
 # Link the executable Me
 
-build Me: CXX_EXECUTABLE_LINKER__Me_Debug CMakeFiles/Me.dir/01/helloWorld.cpp.o CMakeFiles/Me.dir/01/isPrime.cpp.o
+build Me: CXX_EXECUTABLE_LINKER__Me_Debug CMakeFiles/Me.dir/01/helloWorld.cpp.o CMakeFiles/Me.dir/01/isPrime.cpp.o CMakeFiles/Me.dir/02/1_dataType.cpp.o CMakeFiles/Me.dir/02/2_arr.cpp.o CMakeFiles/Me.dir/02/3_arrPointer.cpp.o CMakeFiles/Me.dir/02/4_autoArray.cpp.o CMakeFiles/Me.dir/02/5_autoTypeId.cpp.o CMakeFiles/Me.dir/02/6_voidPointer.cpp.o
   FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0
   OBJECT_DIR = CMakeFiles/Me.dir
   POST_BUILD = :
