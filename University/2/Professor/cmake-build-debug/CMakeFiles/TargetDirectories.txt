@@ -1,0 +1,3 @@
+/Users/hui-ryung/Desktop/CPP/University/2/Professor/cmake-build-debug/CMakeFiles/Professor.dir
+/Users/hui-ryung/Desktop/CPP/University/2/Professor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/hui-ryung/Desktop/CPP/University/2/Professor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
