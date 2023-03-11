@@ -61,7 +61,10 @@
 				6,
 				7,
 				8,
-				9
+				9,
+				10,
+				11,
+				12
 			]
 		}
 	],
@@ -103,7 +106,10 @@
 				6,
 				7,
 				8,
-				9
+				9,
+				10,
+				11,
+				12
 			]
 		}
 	],
@@ -167,6 +173,24 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "02/8_struct.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Note/test.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "02/9_doublePointer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "02/10_constPointer.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
