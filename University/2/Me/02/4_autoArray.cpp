@@ -13,7 +13,6 @@
 //        cout << *(parr + i) << endl;
 //        cout << parr[i] << endl;
 //        cout << *(arr+i) << endl;
-//
 //    }
 //    return 0;
 //}

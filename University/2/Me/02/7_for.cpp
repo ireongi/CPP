@@ -12,7 +12,7 @@
 //
 //    /// 포인터로 전체 출력하기
 //    // 1)반복문
-//    for(int i=0; i<sizeof(s)-1; i++)
+//    for(int i=0; i<sizeof(s); i++)
 //        cout << *((char*)p+i) ;
 //    cout << endl;
 //    // 2)간단
@@ -32,7 +32,7 @@
 //
 //
 //    /// 더 간단한 반복문
-//    for(int i : {1, 3, 5, 7, -9})
+//    for(auto i : {1, 3, 5, 7, -9})
 //        cout << i;
 //
 //    return 0;
